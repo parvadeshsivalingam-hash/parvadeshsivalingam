@@ -1,5 +1,5 @@
 <a href="https://github.com/parvadeshsivalingam-hash">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=S.Parvadesh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Developer%20%7C%20Web%20Developer%20%7C%20IT%20Student%20%40%20DSEC&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=S.Parvadesh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Developer%20%7C%20full stack%20Developer%20%7C%20IT%20Student%20%40%20DSEC&descAlignY=62&descSize=16"/>
 </a>
 
 <div align="center">
